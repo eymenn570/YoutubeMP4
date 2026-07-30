@@ -60,4 +60,7 @@ The goal of this project is to preserve and organize television idents, commerci
 
 ---
 
+---LANGUAGE GUIDANCE FILE---
+📖 **Language Guidance:** [Language Guidance](LanguageGuidance.md)
+
 © Eymen – MP4ARCHIVE / EGiTHUBYT
