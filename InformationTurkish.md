@@ -59,5 +59,7 @@ Bu proje; televizyon jeneriklerini, reklamları, fragmanları, promoları ve çe
 - Yeni videolar eklendikçe bu arşiv güncellenecektir.
 
 ---
+---DİL YÖNLENDİRME DOSYASI---
+📖 **Language Guidance:** [Language Guidance](LanguageGuidance.md)
 
 © Eymen – MP4ARSİV / EGiTHUBYT
