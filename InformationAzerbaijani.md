@@ -60,4 +60,7 @@ Bu layihənin məqsədi televiziya cingllərini, reklamları, promoları, treyle
 
 ---
 
+-----DİL RƏHBƏRLİYİ FAYLI------
+📖 **Language Guidance:** [Language Guidance](LanguageGuidance.md)
+  
 © Eymen – MP4ARXİV / EGiTHUBYT
